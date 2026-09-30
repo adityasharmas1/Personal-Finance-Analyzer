@@ -1,1 +1,6 @@
-
+# Personal Finance Analyzer - requirements
+#
+# No external packages are needed.
+# This project uses only Python's standard library (json, os, math, datetime).
+#
+# Required Python version: 3.8 or newer
